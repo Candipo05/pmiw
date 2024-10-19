@@ -1,3 +1,5 @@
+//https://youtu.be/PsvwTym3tCI?si=Lscv8Ydzjp6dooAg
+// candela hermida legajo 119054/7
 let anchoPantalla = 640;
 let altoPantalla = 480;
 let imagenes = [];
