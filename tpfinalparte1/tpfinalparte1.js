@@ -1,4 +1,5 @@
 //Candela Hermida Legajo: 119054/7
+// https://youtu.be/QRdhoFU_Efk
 
 let anchoPantalla = 640;
 let altoPantalla = 480;
@@ -229,3 +230,4 @@ function cuadroTexto() {
   fill(255, 196, 47);
   rect(anchoPantalla * 0.03, altoPantalla * 0.80, anchoPantalla * 0.94, altoPantalla * 0.17);
 }
+
